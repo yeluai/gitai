@@ -1,1 +1,2 @@
 # gitai
+#ai use git
